@@ -5,8 +5,7 @@ public class TestCase extends TestScenario {
 	boolean result=false;
 	String testPlan;
 		
-	public void main(String[] args) {
-		// TODO Auto-generated method stub
+	 void execution() {
 		System.out.println(desc);
 		result=true;
 	}
